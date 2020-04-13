@@ -1,0 +1,14 @@
+
+You have to copy the Keyboard.diff.lua file for each plane in
+
+in
+
+C:\Users\YOUR_USERNAME\Saved Games\DCS\Config\Input\PLANE\keyboard
+
+
+List of files:
+
+https://github.com/Togg-streamdeck/dcs/blob/master/f18/Keyboard.diff.lua
+
+
+Enjoy !
