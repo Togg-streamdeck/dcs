@@ -92,6 +92,226 @@ local diff = {
 			},
 			["name"] = "Missile mode toggle",
 		},
+		["d3366pnilunilcd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = ",",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Squelch Toggle",
+		},
+		["d3367pnilu3367cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "2",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 10 MHz Switch Down",
+		},
+		["d3367pnilu3367cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "1",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 10 MHz Switch Up",
+		},
+		["d3368pnilu3368cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "4",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 1 MHz Switch Down",
+		},
+		["d3368pnilu3368cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "3",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 1 MHz Switch Up",
+		},
+		["d3369pnilu3369cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "6",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 0.1 MHz Switch Down",
+		},
+		["d3369pnilu3369cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "5",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 0.1 MHz Switch Up",
+		},
+		["d3370pnilu3370cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "8",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 0.025 MHz Switch Down",
+		},
+		["d3370pnilu3370cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "7",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 0.025 MHz Switch Up",
+		},
+		["d3371pnilunilcd3vd0.33333333333333vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "[",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function BOTH",
+		},
+		["d3371pnilunilcd3vd0.66666666666667vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "]",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function MAIN",
+		},
+		["d3371pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "'",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function OFF",
+		},
+		["d3374pnilunilcd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "9",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 CHAN SEL Dec",
+		},
+		["d3374pnilunilcd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "0",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 CHAN SEL Inc",
+		},
+		["d3375pnilunilcd3vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "]",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Mode MANUAL",
+		},
+		["d3375pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "[",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Mode GUARD",
+		},
+		["d3375pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "'",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Mode PRESET",
+		},
+		["d3377pnilu3377cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "M",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 READ",
+		},
+		["d3378pnilunilcd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "-",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 LOAD",
+		},
+		["d3379pnilu3379cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "T",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 TONE",
+		},
 		["d3566pnilunilcd62vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -289,6 +509,28 @@ local diff = {
 					},
 				},
 			},
+		},
+		["dnilp3360unilcd3vdnilvp-1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Y",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Volume Pilot Dec",
+		},
+		["dnilp3360unilcd3vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "J",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Volume Pilot Inc",
 		},
 	},
 }
