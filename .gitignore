@@ -2,3 +2,8 @@
 *.max
 *.dxf
 *.stp
+*.stl
+*.obj
+*.mtl
+*.3mf
+*.pdf
